@@ -1,0 +1,44 @@
+.startButton{
+
+-fx-background-radius: 50px;
+-fx-border-radius: 45px;
+-fx-border-width: 2px;
+-fx-border-color:black;
+
+}
+
+.startButton:hover{
+-fx-background-color:red;
+-fx-opacity: 0.8;
+}
+
+.button1:hover{
+-fx-background-color:red;
+-fx-opacity: 0.5;
+}
+
+#buttonClickX{
+-fx-background-image:url("/images/cross.png");
+-fx-background-size: 185px 130px;
+}
+
+#buttonClickX:hover{
+-fx-background-color:red;
+-fx-opacity: 0.5;
+}
+
+#buttonClickO:hover{
+-fx-background-color:red;
+-fx-opacity: 0.5;
+}
+
+#buttonClickO{
+-fx-background-image:url("/images/circle.png");
+-fx-background-size: 182px 130px;
+}
+
+#backgroundImage{
+-fx-background-color:red;
+-fx-background-image:url("/images/startImage.jpg");
+-fx-background-size: 540px 200px;
+}
