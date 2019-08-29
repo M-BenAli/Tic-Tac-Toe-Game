@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-One of my first side-project aside school after becoming a little proficient with Java and JavaFX.
+One of my first personal side-projects to become more proficient in Java and JavaFX.
